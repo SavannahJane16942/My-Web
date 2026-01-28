@@ -1,0 +1,6 @@
+.top_nav {
+    display: flex;
+    flex: 1;
+    height: 50px;
+    border: 1px solid black;
+}
